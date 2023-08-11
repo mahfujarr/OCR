@@ -1,3 +1,3 @@
-python OCR.py
+python ocr.py
 
 pause
