@@ -1,0 +1,3 @@
+python OCR.py
+
+pause
